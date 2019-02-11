@@ -1,3 +1,22 @@
+<html>
+  <head>
+    <title>comp 3121</title>
+    <script type="text/javascript">
+      var queryString = window.location.search.slice(1);
+      // if query string exists
+      if (queryString){
+      qString=queryString.split('q=')[1].split('&')[0];
+      alert(qString);
+      }
+    </script>
+    <body>
+      TBD
+    </body>
+    </html>
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/yi12262004/comp3121.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

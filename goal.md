@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>comp 3121</title>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-134236884-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-134236884-1');
+</script>
+  </head>
+    <body>
+      TBD
+    </body>
+    </html>
